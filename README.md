@@ -5,7 +5,7 @@ This app allows users to register, log in, and communicate with each other in re
 Built with scalability and clean code architecture in mind.
 
 
-[GitHub Repository](https://github.com/IshuAgrawal16/fullstack_Chat_app)
+[GitHub Repository](https://github.com/IshuAgrawal16/fullstack_Chat_app)[Live DEMO](https://fullstack-chat-app-7glp.onrender.com)
 
 ---
 
